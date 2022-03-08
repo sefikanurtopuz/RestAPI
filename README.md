@@ -10,4 +10,4 @@
 
 ### Diğer
 * OOP ve Katmanlı Mimari kullanılmıştır.
-
+* Sync ve Async konuları işlenmiştir.
